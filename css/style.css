@@ -1,6 +1,37 @@
+/* colors
+#61122f moroon
+#f6b319 yellow */
+
 
 body{
     font-family: 'Oxygen', sans-serif;
-    text-align: center;
-    color:blue
+    background-color: #61122f;
+    color: white;
 }
+
+#nav-bar{
+    background-color: #f6b319 ;
+}
+
+div.navbar-brand{
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+div.navbar-brand a{
+    font-size: 1.5em;
+    color: #557c3e;
+    text-shadow: 1px 1px 1px #444;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+div.navbar-brand p{
+    font-size: .7em;
+}
+
+div.navbar-brand p span{
+    vertical-align: middle;
+}
+

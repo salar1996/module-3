@@ -42,3 +42,30 @@ div.navbar-brand p span{
 color: #951c49;
 font-size: 2.5em;
 }
+
+.menu-text a p{
+    color: #951c49;
+    font-weight:500;
+}
+
+.navbar-nav{
+    display: inline-block;
+}
+
+.navbar-nav li{
+margin: 0 10px;;
+}
+a.navbar-nav{
+    display: inline-block;
+}
+#phone-call{
+    font-size: 28px;
+    font-weight: 500;
+    color: #951c49;
+    margin-left: 50px
+}
+
+#we-deliver{
+    color: #557c3e;
+    font-size: 1.2em;
+}

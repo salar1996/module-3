@@ -49,7 +49,7 @@ font-size: 2.5em;
 }
 
 .navbar-nav li{
-margin: 0 10px;;
+margin: 0 5px;;
 }
 a.navbar-nav{
     display: inline-block;
@@ -71,7 +71,39 @@ a.navbar-nav{
     font-size: 1.2em;
 }
 
+.nav-item{
+padding: 10px 15px  0 15px;
+}
+
+.nav-item:hover{
+background-color: rgba(255,255, 255, .4);
+}
+
 div#navbarNav a p{
     color: #951c49;
     font-weight:500;
+}
+
+button.navbar-toggler{
+    border: 2px solid #951c49;
+}
+
+
+#menu-icon-bars{
+    color: #951c49;
+}
+
+#mobile-call{
+    border: 2px solid white;
+    border-radius: 3px;
+    background-color: #f6b319;
+    padding: 10px;
+    margin-top: 15px ;
+    color: #61122f;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+#we-deliver-mobile{
+    font-size: .9em;
 }
